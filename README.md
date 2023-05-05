@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kavin @immkavin-ranks
+- 👋 Hi, I’m Kavin | AKI
 - 👀 I’m interested in Full-Stack Web Development
 - 🌱 I’m currently learning Responsive Web Design using intermediate CSS 
 - 💞️ I’m looking to collaborate on any Web Development Projects
