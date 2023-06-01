@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Kavin/AKI @immkavin-ranks<br>👀 I’m interested in Full-Stack Web Development<br>🌱 I’m currently learning Responsive Web Design using intermediate CSS<br>💞️ I’m looking to collaborate on any Web Development Projects<br>📫 To reach me, Email: immkavin.ofcl@gmail.com
+👋 Hi, I’m Kavin/AKI @immkavin-ranks<br>👀 I’m interested in Full-Stack Web Development<br>🌱 I’m currently learning Java<br>💞️ I’m looking to collaborate on any Web Development Projects<br>📫 To reach me, Email: immkavin.ofcl@gmail.com
 
 
 ## 🌐 Socials:
