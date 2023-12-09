@@ -11,19 +11,19 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 👯 Curriculum 1 [the odin project](https://www.theodinproject.com/)
+- 👯 Curriculum 1 [The odin project](https://www.theodinproject.com/)
 
-- 🤝 Curriculum 2 [free code camp](https://www.freecodecamp.org/)
+- 🤝 Curriculum 2 [Free code camp](https://www.freecodecamp.org/)
 
-- 👨‍💻 All of my projects are available at [https://immkavin-ranks.github.io/personal/](https://immkavin-ranks.github.io/personal/)
+- 👨‍💻 All of my projects are available at [Personal website](https://immkavin-ranks.github.io/personal/)
 
-- 📝 I regularly write articles on [https://kavinsde.blogspot.com/](https://kavinsde.blogspot.com/)
+- 📝 I regularly write articles on [Blogger](https://kavinsde.blogspot.com/)
 
 - 💬 Ask me about **web, data structures, algorithms, software, color theory**
 
 - 📫 How to reach me **kavinsde@gmail.com**
 
-- 📄 Know about my experiences [https://immkavin-ranks.github.io/resume/](https://immkavin-ranks.github.io/resume/)
+- 📄 Know about my experiences [Resume](https://immkavin-ranks.github.io/resume/)
 
 - ⚡ Fun fact **I think I am funny**
 
