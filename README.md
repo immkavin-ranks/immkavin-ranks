@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [cs50](https://www.edx.org/cs50/)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **RDBMS**
 
-- 👯 Curriculum 1 [The odin project](https://www.theodinproject.com/)
+- 👯 Curriculum 1 [The Odin Project](https://www.theodinproject.com/)
 
-- 🤝 Curriculum 2 [Free code camp](https://www.freecodecamp.org/)
+- 🤝 Curriculum 2 [Free Code Camp](https://www.freecodecamp.org/)
 
 - 👨‍💻 All of my projects are available at [Personal website](https://immkavin-ranks.github.io/personal/)
 
