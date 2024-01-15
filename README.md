@@ -7,7 +7,7 @@
 
 ###
 
-- 🔭 I’m currently working on [The Complete Web Development Bootcamp]([https://www.edx.org/cs50/](https://www.udemy.com/course/the-complete-web-development-bootcamp/))
+- 🔭 I’m currently working on [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 - 🌱 I’m currently learning **RDBMS**
 
