@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **RDBMS**
 
-- 👯 Curriculum 1 [The Odin Project](https://www.theodinproject.com/)
+- 👯 Curriculum 1 [theOdinProject](https://www.theodinproject.com/)
 
-- 🤝 Curriculum 2 [Free Code Camp](https://www.freecodecamp.org/)
+- 🤝 Curriculum 2 [freeCodeCamp](https://www.freecodecamp.org/)
 
-- 👨‍💻 All of my projects are available at [Personal website](https://immkavin-ranks.github.io/personal/)
+- 👨‍💻 All of my projects are available at [Personal Website](https://immkavin-ranks.github.io/personal/)
 
 - 📝 I regularly write articles on [Blogger](https://kavinsde.blogspot.com/)
 
