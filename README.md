@@ -6,18 +6,19 @@
 <br>
 
 ###
+- [`Personal Website`](https://immkavin-ranks.github.io/personal/)
 
 - 🔭 I’m currently working on [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-- 🌱 I’m currently learning **RDBMS**
+<!--- 🌱 I’m currently learning **RDBMS**
 
 - 👯 Curriculum 1 [theOdinProject](https://www.theodinproject.com/)
 
-- 🤝 Curriculum 2 [freeCodeCamp](https://www.freecodecamp.org/)
+- 🤝 Curriculum 2 [freeCodeCamp](https://www.freecodecamp.org/) 
 
 - 👨‍💻 All of my projects are available at [Personal Website](https://immkavin-ranks.github.io/personal/)
 
-- 📝 I regularly write articles on [Blogger](https://kavinsde.blogspot.com/)
+- 📝 I regularly write articles on [Blogger](https://kavinsde.blogspot.com/) -->
 
 - 💬 Ask me about **web, data structures, algorithms, software, color theory**
 
