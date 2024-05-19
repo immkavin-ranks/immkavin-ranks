@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kavin</h1>
 <h3 align="center">Software/Full-Stack Web Developer</h3>
 <br>
-<p align="left"> <a href="https://twitter.com/akixpro" target="blank"><img src="https://img.shields.io/twitter/follow/akixpro?logo=twitter&style=for-the-badge" alt="akixpro" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/akixpro" target="blank"><img src="https://img.shields.io/twitter/follow/akixpro?logo=twitter&style=for-the-badge" alt="akixpro" /></a> </p> -->
 
 <br>
 
