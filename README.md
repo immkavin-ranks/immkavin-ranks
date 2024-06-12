@@ -75,6 +75,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/immkavin-ranks/count.svg?"  />
 </div>
-<br>
 
 ###
