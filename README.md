@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Kavin, from India<br><br>- 🔭 I’m a final-year student focused on Web development<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I read or walk</p>
+<p align="left">I'm Kavin, from India<br><br>- 🔭 I’m a final-year undergraduate student focused on programming, web3 & blockchain<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I read or walk</p>
 
 ###
 
