@@ -65,7 +65,7 @@
 
 ###
 
-<!--<img src="https://raw.githubusercontent.com/immkavin-ranks/immkavin-ranks/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/immkavin-ranks/immkavin-ranks/output/snake.svg" alt="Snake animation" />
 
 ###
 
