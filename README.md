@@ -7,12 +7,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/immkavin-ranks/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -45,24 +39,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=immkavin-ranks&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/immkavin-ranks/immkavin-ranks/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/31jijs4lqfn7ydqrz5xpr5cge374">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jijs4lqfn7ydqrz5xpr5cge374&count=5&unique=false" alt="Spotify recently played"  />
   </a>
-</div>
 
 ###
